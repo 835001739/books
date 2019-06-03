@@ -3,30 +3,20 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import $ from 'jquery'
+/*-----css导入----*/
+//css---导入
+import './assets/css/hero-slider-style.css'
+import './assets/css/magnific-popup.css'
+import './assets/css/templatemo-style.css'
+//js ---引入
 
-// import './assets/css/main.css'
-// import './assets/css/blue.css'
-// import './assets/css/owl.carousel.css'
-// import './assets/css/owl.transitions.css'
-// import './assets/css/animate.min.css'
-// import './assets/css/rateit.css'
-// import './assets/css/bootstrap-select.min.css'
-// import './assets/css/font-awesome.css'
+// import './assets/js/bootstrap.min.js'
+import './assets/js/hero-slider-main.js'
+import './assets/js/jquery.magnific-popup.min.js'
 
-import './assets/js/jquery-1.11.1.min'
-import './assets/js/bootstrap.min'
-
-import './assets/js/bootstrap.min'
-import './assets/js/bootstrap-hover-dropdown.min'
-import './assets/js/owl.carousel.min'
-import './assets/js/echo.min'
-import './assets/js/jquery.easing-1.3.min'
-import './assets/js/bootstrap-slider.min'
-import './assets/js/jquery.rateit.min'
-import './assets/js/lightbox.min'
-import './assets/js/bootstrap-select.min'
-import './assets/js/wow.min'
-import './assets/js/scripts'
+import './assets/js/tether.min.js'
+// import './assets/js/new_file.js'
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
