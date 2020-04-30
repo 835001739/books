@@ -12,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "peer": "^0.2.10",
     "sass-loader": "^7.1.0",
     "vue": "^2.5.2",
